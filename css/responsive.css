@@ -1,0 +1,179 @@
+@media (max-width: 767px) {
+    .homecontactcoursesbutton {
+        padding-top: 0.75rem;
+        padding-bottom: 0.75rem;
+    }
+}
+
+@media (max-width: 767px) {
+    .homecoursesbutton {
+        padding-top: 0.75rem;
+        padding-bottom: 0.75rem;
+        margin-left: -196px;    }
+
+
+    .coders {
+        height: 0;
+        margin-top: 0;
+        width: 0;
+    }
+
+    .recommended h1 {
+            margin-top: -190px;
+        text-align: center;
+        margin-left: -436px;
+        font-family: 'Roboto', sans-serif;
+        font-size: 31px;
+        display: block;
+    }
+}
+
+@media (max-width: 767px) {
+
+
+    label.logo {
+        font-size: 30px;
+        padding-left: 50px;
+    }
+
+
+
+    .three:checked~ul {
+        left: 0;
+
+    }
+}
+
+
+@media (max-width: 767px) {
+    .contactform h1 {
+        font-size: 20px;
+    }
+
+    .contactform div {
+        margin-left: 1px;
+        width: 219px;
+    }
+
+    .contactform {
+        margin-top: 209px;
+        margin-left: -251px;
+    }
+
+    .main1 {
+        margin-top: 14px;
+        margin-left: 49px;
+    }
+
+    .navbar ul li a {
+
+        margin-left: 87px;
+        flex-direction: column;
+        margin-left: 142px;
+    }
+}
+
+
+@media (max-width: 767px) {
+    .devInfo h1 {
+        font-size: 23px;
+        align-items: center;
+        margin-top: 37px;
+    }
+
+    .info {
+        margin-left: 244px;
+    }
+
+    /* .indigo {
+        margin: -24px;
+    }
+ */
+
+}
+
+@media (max-width: 767px) {
+    .devInfo p {
+        padding-left: 138px;
+        width: 250px;
+        line-height: 1.4rem;
+    }
+
+    .para {
+        padding-left: 138px;
+    }
+}
+
+
+
+@media (max-width: 767px) {
+
+
+
+
+    .web img {
+        margin-top: 22px;
+        height: 119px;
+        width: auto;
+        margin-left: -183px;
+    }
+
+    .web p {
+        font-size: 12px;
+        margin-left: -172px;    }
+
+    .android p {
+        font-size: 12px;
+        margin-left: -176px;
+    }
+
+    .web h1 {
+        width: 263px;
+        margin-left: -172px;
+    }
+
+    .web h3 {
+        width: 255px;
+        margin-left: -172px;
+    }
+
+    .web button {
+        margin-left: -169px;
+    }
+
+    .android button {
+        margin-left: -176px;
+    }
+
+    .homevideo{
+        margin-left: -27px;
+    }
+
+    .android h3 {
+        width: 255px;
+        margin-left: -176px;
+    }
+
+    .android h1 {
+        width: 263px;
+        margin-left: -176px;
+    }
+
+    .video h3 {
+        width: 255px;
+    }
+
+    .learn {
+        margin-top: 24px;
+
+    }
+}
+
+@media (max-width: 767px) {
+    .page img {
+        margin-left: 114px;
+        align-items: center;
+    }
+
+}
+

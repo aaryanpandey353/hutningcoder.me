@@ -1,0 +1,84 @@
+@media (max-width: 767px) {
+    .video img {
+        margin-right: 34px;
+    height: 156px;
+    width: 290px;
+    margin-left: 3px;
+    margin-top: 12px;
+}
+
+    .video p {
+        font-size: 12px;
+        margin-left: 36px;
+    }
+
+    .video h1 {
+        width: 263px;
+        margin-left: 33px;
+    }
+
+    .video1 iframe {
+        height: 191px;
+        width: 328px;
+        margin-left: 22px;
+    }
+
+    .video1{
+        height: 212px;
+        width: 372px;
+    }
+
+    .video1 h1{
+        font-size: 20px;
+    width: 362px;
+    }
+
+    .leftside h1{
+        margin-top: 1696px;
+        margin-left: -779px;    }
+
+    .leftside a{
+        margin-left: -794px;    }
+    
+
+        .main2{
+            margin-top: 140px;
+            margin-left: -278px;
+        }
+.page {
+    margin-top: 33px;
+    margin-left: 63px;
+    width: 289px;
+}
+
+.android {
+    width: 289px;
+    margin-left: 64px;
+    margin-top: 37px;
+}
+
+.paper {
+    width: 289px;
+    margin-left: 63px;
+    margin-top: 33px;
+}
+    .video h3 {
+        width: 247px;
+        margin-left: 28px;
+    }
+
+    .video button {
+        margin-left: 25px;
+    }
+
+    .web {
+        margin-top: 22px;
+        width: 294px;
+        margin-left: 67px;
+    }
+
+    .video{
+        margin-left: -475px;
+    margin-top: 50px;
+    }
+}

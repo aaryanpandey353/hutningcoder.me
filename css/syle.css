@@ -1,0 +1,1135 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@3008display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    /* overflow: hidden; */
+}
+
+    
+
+.container {
+    display: flex;
+
+}
+
+.copyright img {
+    height: 4rem;
+    margin-top: 1015px;
+    height: 4rem;
+    margin-left: -1389px;
+}
+
+.copyright h3 {
+    margin-top: -47px;
+    margin-left: -1322px;
+    font-family: 'Oswald', sans-serif;
+}
+
+.copyright h4 {
+    margin-top: -38px;
+    color: gray;
+    margin-left: -1134px;
+    font-family: 'Roboto', sans-serif;
+    display: block;
+}
+
+.copyright p {
+    margin-top: -53px;
+    margin-left: -1166px;
+    font-size: 59px;
+    font-family: 'Oswald', sans-serif;
+    color: gray;
+    display: block;
+}
+
+
+
+
+.insta {
+    margin-left: -105px;
+    margin-top: 512px;
+    height: 3rem;
+}
+
+.fb {
+    margin-left: -153px;
+    margin-top: 511px;
+    height: 3.4rem;
+}
+
+.infoContainer {
+    /* background-color: rgb(202, 9, 128); */
+    height: 58vh;
+    width: 80vw;
+    margin: 144px auto;
+    display: flex;
+    justify-content: space-around;
+
+}
+
+
+/* .devInfo {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 16px;
+}
+
+.hello {
+    font-size: 3em;
+    margin-left: 34px;
+
+}
+
+.name {
+    font-size: 3em;
+    font-weight: bold;
+    font-family: 'Fira Sans', sans-serif;
+    margin-left: 34px;
+    
+}
+
+.about {
+    font-size: 2.5em;
+    margin-left: 34px;
+}
+
+.moreabout {
+    font-size: 2em;
+    font-family: 'Fira Sans', sans-serif;
+    margin-top: 23px;
+    margin-left: 34px;
+}
+
+.btn {
+    margin-top: 2.2em;
+    font-size: 16px;
+}
+
+.btn-button {
+    padding: 9px 14px;
+    border-radius: 22px;
+    color: white;
+    background-color: dodgerblue;
+    font-weight: bold;
+    font-size: 2em;
+    margin: 0 3px;
+    cursor: pointer;
+}
+
+.btn-button:hover {
+    background-color: white;
+    color: dodgerblue;
+}
+
+.btn-button {
+    font-size: 14px;
+    padding: 7px 13px;
+    margin: 14px 0;
+    margin-left: 30px;
+}
+
+.devPic img {
+    height: 58vh;
+} */
+
+.logo {
+    margin-left: 12px;
+    margin-top: 10px;
+    font-size: 26px;
+    --tw-text-opacity: 1;
+    color: rgba(79, 70, 229, var(--tw-text-opacity));
+    font-family: 'Fira Sans', sans-serif;
+    font-weight: 600;
+}
+
+.navbar li a {
+    text-decoration: none;
+    list-style: none;
+    font-size: 21px;
+    margin-right: 19px;
+    text-align: right;
+    color: black;
+    padding: 3px 3px;
+    float: right;
+}
+
+.navbar ul {
+    overflow: auto;
+    float: right;
+    text-align: right;
+    padding: 0;
+    margin: 0;
+    /* background-color: violet; */
+    /* margin-right: -255px;*/
+}
+
+.navbar li {
+    /* float: right; */
+    /* margin: 13px 20px; */
+    margin: 13px 20px;
+
+}
+
+.navbar ul {
+    width: 665px;
+    display: -webkit-inline-box;
+    margin-left: 12px;
+    list-style: none;
+}
+
+.three {
+    margin-left: 12px;
+    margin-top: 12px;
+    height: 12px;
+}
+
+.devInfo h1 {
+    margin-left: -467px;
+    margin-top: -1px;
+    font-size: 34px;
+    font-family: 'Fira Sans', sans-serif;
+    display: block;
+}
+
+.devInfo p {
+    display: block;
+    width: 480px;
+    /* font-size: 21px; */
+
+    margin-left: -467px;
+    font-size: 1rem;
+    line-height: 1.5rem;
+    margin-top: 0.5rem;
+    color: gray;
+    display: block;
+}
+
+.indigo {
+    --tw-text-opacity: 1;
+    color: rgba(79, 70, 229, var(--tw-text-opacity));
+}
+
+.homecoursesbutton {
+    height: 33px;
+    font-size: 12px;
+    width: 104px;
+    border-radius: 6px;
+    border: 1px;
+    margin-left: -467px;
+    margin-top: 16px;
+    color: white;
+    /* background-color: black; */
+    --tw-bg-opacity: 1;
+    background-color: rgba(17, 24, 39, var(--tw-bg-opacity));
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.homecontactcoursesbutton {
+    height: 33px;
+    margin-left: 21px;
+    font-size: 12px;
+    width: 104px;
+    border-radius: 6px;
+    border: 1px;
+    font-weight: 600;
+    cursor: pointer;
+    margin-top: 16px;
+    color: black;
+    --tw-bg-opacity: 1;
+    background-color: rgba(209, 213, 219, var(--tw-bg-opacity));
+}
+
+.recommended h1 {
+    margin-top: -213px;
+    text-align: center;
+    margin-left: -613px;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+.coders {
+    height: 418px;
+    margin-top: -148px;
+    margin-left: -122px;
+}
+
+
+
+
+
+/* This style start for contact page */
+
+.contactform {
+    padding: 0 34px;
+    padding-top: 84px;
+    font-family: 'Fira Sans', sans-serif;
+    margin: 88px;
+}
+
+.contactform h1 {
+    font-family: 'Source Code Pro', monospace;
+    /* padding: 12px 0; */
+    margin-left: 19px;
+    margin-top: -86px;
+}
+
+.contactform form div {
+    padding: 10px 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.contactform form div input {
+    /* width: 26vw; */
+    border-radius: 5px;
+    margin: 6px 0;
+    padding: 3px;
+}
+
+.contactform form {
+    margin: 0 30px;
+}
+
+#emailHelp {
+    font-size: 8px;
+    color: midnightblue;
+    margin: 0 5px;
+}
+
+/* .main{
+    margin: -196px;
+    margin-top: -15px;
+    margin-left: -536px;
+
+} */
+#form-check {
+    flex-direction: row;
+
+}
+
+#form-check input {
+    width: 24px;
+    margin: 3px;
+}
+
+/* This style Start for Blog page */
+
+.blogcontanier h1 {
+    margin-left: -405px;
+    margin-top: 80px;
+    font-size: 32px;
+    --tw-text-opacity: 1;
+    color: rgba(55, 65, 81, var(--tw-text-opacity));
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+.blogpost1 h1 {
+    display: block;
+    width: 697px;
+    margin-top: 57px;
+    font-size: 22px;
+    font-family: 'Libre Franklin', sans-serif;
+}
+
+.blogpost1 a {
+    display: block;
+    text-decoration: none;
+    font-family: 'Libre Franklin', sans-serif;
+    margin-left: -405px;
+}
+
+.blogpost2 a {
+    display: block;
+    text-decoration: none;
+    font-family: 'Libre Franklin', sans-serif;
+    margin-left: -405px;
+    margin-top: 14px;
+}
+
+.blogpost2 h1 {
+    width: 692px;
+    font-size: 23px;
+    margin-top: 37px;
+}
+
+.blogpost2 p {
+    margin-left: -404px;
+    color: gray;
+    margin-top: -7px;
+}
+
+.blogpost3 h1{
+    width: 692px;
+    font-size: 23px;
+    margin-top: 37px;
+}
+
+
+.blogpost3 p {
+    margin-left: -404px;
+    color: gray;
+    margin-top: -7px;
+}
+
+.blogpost3 a {
+    display: block;
+    text-decoration: none;
+    font-family: 'Libre Franklin', sans-serif;
+    margin-left: -405px;
+    margin-top: 14px;
+}
+
+.blogpost4 h1 {
+    width: 692px;
+    font-size: 23px;
+    margin-top: 37px;
+}
+
+.blogpost4 a {
+    display: block;
+    text-decoration: none;
+    font-family: 'Libre Franklin', sans-serif;
+    margin-left: -405px;
+    margin-top: 14px;
+}
+
+.blogpost4 p {
+    margin-left: -404px;
+    color: gray;
+    margin-top: -7px;
+}
+
+.blogpost5 h1{
+    width: 692px;
+    font-size: 23px;
+    margin-top: 37px;
+}
+
+.blogpost5 a {
+    display: block;
+    text-decoration: none;
+    font-family: 'Libre Franklin', sans-serif;
+    margin-left: -405px;
+    margin-top: 14px;
+}
+
+.blogpost5 p {
+    margin-left: -404px;
+    color: gray;
+    margin-top: -7px;
+}
+
+.blogpost6 h1{
+    width: 692px;
+    font-size: 23px;
+    margin-top: 37px;
+}
+
+
+.blogpost6 a {
+    display: block;
+    text-decoration: none;
+    font-family: 'Libre Franklin', sans-serif;
+    margin-left: -405px;
+    margin-top: 14px;
+}
+.blogpost6 p {
+    margin-left: -404px;
+    color: gray;
+    margin-top: -7px;
+}
+/* This style start for Into page */
+.intro {
+    margin: 0 88px;
+}
+
+.intro h1 {
+    font-family: 'Fira Sans', sans-serif;
+    margin: 128px;
+    margin-top: -12px;
+}
+
+.intro p {
+    font-family: 'Source Code Pro', monospace;
+    margin-left: 18px;
+    margin-top: -86px;
+}
+
+.intro h2 {
+    font-family: 'Fira Sans', sans-serif;
+    margin: 128px;
+    margin-top: 23px;
+}
+
+.skillItem {
+    display: flex;
+    align-items: center;
+    font-family: 'Source Code Pro', monospace;
+    font-weight: 900;
+    /* margin-top: -98px; */
+}
+
+.skillContainer {
+    padding: 12px;
+    margin-top: -98px;
+    margin-left: 19px;
+}
+
+.skill {
+    width: 265px;
+    height: 6px;
+    background-color: red;
+    margin-left: 7px;
+    border: 2px solid black;
+}
+
+
+
+.fifty {
+    width: 265px;
+    background-color: blueviolet;
+}
+
+
+.hundred {
+    width: 265px;
+    background-color: aqua;
+}
+
+.t5 {
+    width: 265px;
+    background-color: yellow;
+}
+
+
+/* This style Start for Responsivenes for the website */
+
+
+
+
+
+/* This style Start for Icon */
+.cross {
+    position: absolute;
+    top: 10px;
+    right: 1132px;
+    cursor: pointer;
+}
+
+.hum {
+    position: absolute;
+    top: 15px;
+    left: 16px;
+    cursor: pointer;
+}
+
+
+
+
+.intro,
+.blogContainer,
+.contactform {
+    margin: 50px 8px;
+
+}
+
+.devInfo {
+    font-size: 10px;
+}
+
+.buttons {
+    font-size: 10px;
+}
+
+
+/* Courses page style start */
+
+.Aaryan h1 {
+    display: flex;
+    align-items: center;
+    font-family: 'Fira Sans', sans-serif;
+    margin-top: 12px;
+    margin-left: 240px;
+    font-size: 23px;
+    margin-left: 87px;
+}
+
+.Aaryan p {
+    display: flex;
+    justify-items: center;
+    font-family: 'Source Code Pro', monospace;
+    margin-left: 34px;
+    margin-top: 10px;
+}
+
+.video {
+    margin-left: 42px;
+}
+
+
+/* .cross{
+    position: absolute;
+    top: 10px;
+    right: 182px;
+    cursor: pointer;
+} */
+
+
+/* Source Code Style Start */
+
+.sourcecode h1 {
+    font-size: 30px;
+    /* padding: 0 12px; */
+    /* justify-content: center; */
+    font-family: 'Source Code Pro', monospace;
+    font-weight: bold;
+    /* margin-bottom: 199px; */
+    scroll-margin: 12px;
+}
+
+.code h1 {
+    font-size: 30px;
+    /* padding: 0 12px; */
+    /* justify-content: center; */
+    font-family: 'Source Code Pro', monospace;
+    font-weight: bold;
+    /* margin-bottom: 199px; */
+}
+
+.bt {
+    padding: 9px 14px;
+    border-radius: 22px;
+    color: white;
+    background-color: dodgerblue;
+    font-weight: bold;
+    font-size: 2em;
+    margin: 0 3px;
+    cursor: pointer;
+}
+
+.bt:hover {
+    background-color: white;
+    color: dodgerblue;
+}
+
+.bt {
+    font-size: 14px;
+    padding: 7px 13px;
+    margin: 14px 0;
+    margin-left: 30px;
+}
+
+.sourcecode img {
+    height: 110px;
+    justify-content: center;
+    margin-left: 125px;
+}
+
+.heo {
+    margin-left: 36px;
+}
+
+/* .web{
+   margin-top: -117px;
+   height: 100px;
+} */
+
+
+/* This style start for corurses page ka open.html ka */
+
+.open h1 {
+    margin-left: 299px;
+    margin-top: -76px;
+    font-size: 34px;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.open p {
+    margin-left: 182px;
+    margin-top: 26px;
+    font-size: 24px;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.open img {
+    height: 200px;
+    /* align-items: center; */
+    margin-left: 360px;
+}
+
+.open h1 {
+    margin-top: 24px;
+    font-family: 'Source Code Pro', monospace;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.btx {
+    padding: 9px 14px;
+    border-radius: 22px;
+    color: white;
+    background-color: dodgerblue;
+    font-weight: bold;
+    font-size: 2em;
+    margin: 0 3px;
+    cursor: pointer;
+    margin-top: -67px;
+}
+
+.btx:hover {
+    background-color: white;
+    color: dodgerblue;
+}
+
+.btx {
+    font-size: 14px;
+    padding: 7px 13px;
+    margin: 14px 0;
+    margin-left: 30px;
+    margin-left: 464px;
+    /* margin-top: -67px; */
+}
+
+.open2 h1 {
+    margin-left: 299px;
+    margin-top: -17px;
+    font-size: 34px;
+    font-family: 'Fira Sans', sans-serif;
+    /* margin-top: 24px; */
+    font-family: 'Source Code Pro', monospace;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.open2 p {
+    margin-left: 350px;
+    margin-top: 26px;
+    font-size: 20px;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.open2 img {
+    height: 200px;
+    /* align-items: center; */
+    margin-left: 360px;
+}
+
+/* html,body {
+     margin:0;
+    padding:0; 
+    overflow-x:hidden;
+    } */
+
+.open4 img {
+    height: 100px;
+    /* align-items: center; */
+    margin-left: 450px;
+}
+
+.open3 h1 {
+    margin-left: 363px;
+    margin-top: -17px;
+    font-size: 29px;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Source Code Pro', monospace;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.open3 p {
+    margin-left: 350px;
+    margin-top: 26px;
+    font-size: 20px;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.open4 h2 {
+    margin-left: 363px;
+    margin-top: 30px;
+    font-size: 29px;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Source Code Pro', monospace;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.open3 img {
+    height: 200px;
+    /* align-items: center; */
+    margin-left: 450px;
+}
+
+.open4 h1 {
+    margin-left: 363px;
+    margin-top: -17px;
+    font-size: 29px;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Source Code Pro', monospace;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.open4 p {
+    margin-left: 350px;
+    margin-top: 26px;
+    font-size: 20px;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.open4 h2 {
+    margin-left: 363px;
+    margin-top: 30px;
+    font-size: 29px;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Source Code Pro', monospace;
+    font-family: 'Source Code Pro', monospace;
+}
+
+/* Aaryan png */
+
+.aaryan1 img {
+    height: 20vh;
+    margin-left: 668px;
+    /* margin-left: 668px; */
+    margin-top: -130px;
+}
+
+
+/* This style start for blog post */
+
+.p2 p {
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.p2 h1 {
+    font-family: 'Fira Sans', sans-serif;
+    /* font-family: font-family: 'Fira Sans', sans-serif; */
+}
+
+.h21 h1 {
+    font-family: 'Source Code Pro', monospace;
+    font-weight: bold;
+}
+
+.h22 h1 {
+    font-family: 'Source Code Pro', monospace;
+    font-weight: bold;
+}
+
+.h23 h1 {
+    font-family: 'Source Code Pro', monospace;
+    font-weight: bold;
+}
+
+.h24 h1 {
+    font-family: 'Source Code Pro', monospace;
+    font-weight: bold;
+}
+
+.h25 h1 {
+    font-family: 'Source Code Pro', monospace;
+    font-weight: bold;
+}
+
+.h22 img {
+    height: 19vh;
+}
+
+/* .h23 img{
+    height: 56vh;
+}
+
+.h24 img{
+    height: 55vh;
+}
+
+.h25 img{
+    height: 55vh;
+}
+
+.blog45{
+    height: 55vh;
+} */
+
+
+.video img {
+    border-radius: 30px;
+    /* margin-right: 669px; */
+    /* margin-top: -68px; */
+    width: auto;
+    max-width: 100%;
+
+    height: 211px;
+}
+
+
+.video p {
+    font-size: 14px;
+    color: gray;
+    font-weight: bold;
+    margin-top: 11px;
+    margin-left: 17px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.video h1 {
+    font-size: 19px;
+    margin-top: 7px;
+    margin-left: 13px;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+
+.video h3 {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-size: 15px;
+    /* width: 367px;
+    width: 367px; */
+    color: gray;
+}
+
+
+.web {
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+    --tw-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+    height: 431px;
+    width: 367px;
+    border-radius: 20px;
+    margin-top: -56px;
+    /* margin-right: 589px; */
+    margin-left: 111px;
+}
+
+
+.learn {
+    margin-top: 31px;
+    margin-left: 22px;
+    /* font-size: 17px; */
+    /* border-radius: 19px; */
+    font-weight: 600;
+    font-size: .875rem;
+    line-height: 1.25rem;
+    padding-left: 0.75rem;
+    padding-right: 0.75rem;
+    border-radius: 9999px;
+    --tw-bg-opacity: 1;
+    background-color: rgba(199, 210, 254, var(--tw-bg-opacity));
+    color: gray;
+    border-color: rgba(199, 210, 254, var(--tw-bg-opacity));
+    height: 40px;
+    cursor: pointer;
+}
+
+.video img {
+    display: block;
+}
+
+.page {
+    margin-left: 300px;
+    margin-top: -427px;
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+    --tw-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+    width: 366px;
+    height: 432px;
+    border-radius: 20px;
+    margin-top: -443px;
+    margin-left: 510px;
+}
+
+.page img {
+    /* margin-left: 2px; */
+    /* margin-right: 2px; */
+    margin-top: 11px;
+}
+
+.page p {
+    margin-top: 44px;
+    margin-top: 11px;
+}
+
+.page h1 {
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+.page h3 {
+    margin-top: 10px;
+    font-size: 16px;
+    width: 355px;
+}
+
+.video1 {
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+    --tw-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+    margin-top: 102px;
+    margin-left: 80px;
+    width: 706px;
+    height: 318px;
+}
+
+
+.video1 h1 {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 37px;
+    width: 694px;
+}
+
+.video1 p {
+    font-family: 'Roboto', sans-serif;
+    margin-top: 12px
+}
+
+.leftside {
+    margin-top: -313px;
+    /* margin-right: 486px; */
+    margin-left: 810px;
+    width: 519px;
+    font-size: 12px;
+    min-width: 1280px;
+    height: 64vh;
+}
+
+.leftside h1 {
+    font-size: 25px;
+    cursor: none;
+}
+
+.leftside a {
+    /* box-shadow: var(--tw-ring-offset-shadow, 0 0 rgba(21, 7, 7, 0.989)), var(--tw-ring-shadow, 0 0 rgb(0, 0, 0)), var(--tw-shadow);
+    --tw-shadow: 0 10px 15px -3px rgb(0, 0, 0), 0 4px 6px -2px rgb(11, 1, 1); */
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+    --tw-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+    margin-top: 15px;
+    font-size: 20px;
+    width: 428px;
+    cursor: pointer;
+    height: 61px;
+    text-align: center;
+    width: 398px;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: bold;
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    text-decoration: none;
+    list-style: none;
+    font-size: 30px;
+    /* padding: 33px 0; */
+    display: flex;
+    text-decoration: none;
+    color: black;
+    font-size: 22px;
+    margin-left: 12px;
+}
+
+
+
+.paper {
+    margin-top: -427px;
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+    --tw-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+    width: 366px;
+    height: 448px;
+    border-radius: 20px;
+    margin-top: -455px;
+    margin-left: 906px;
+}
+
+.paper img {
+    margin-left: 1px;
+    /* margin-right: 2px; */
+    margin-top: 24px;
+}
+
+.paper p {
+    margin-left: 17px;
+    margin-top: 11px;
+}
+
+.paper h1 {
+    margin-top: 10px;
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+.paper h3 {
+    margin-top: 10px;
+    font-size: 16px;
+    width: 355px;
+    margin-left: 12px;
+}
+
+.android {
+    margin-top: -427px;
+    box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+    --tw-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05);
+    width: 334px;
+    height: 474px;
+    border-radius: 20px;
+    margin-top: 97px;
+    margin-left: 116px;
+}
+
+.androidimg {
+    margin-left: -795px;
+    /* margin-right: 2px; */
+    margin-top: 490px;
+}
+
+.androidp {
+    margin-left: -761px;
+    margin-top: 11px;
+}
+
+.androidh1 {
+    margin-left: -763px;
+    margin-top: 10px;
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+.androidh3 {
+    margin-top: 10px;
+    font-size: 16px;
+    width: 355px;
+    margin-left: -768px;
+}
+
+
+.downside img {
+    margin-left: -1995px;
+    margin-top: 838px;
+    height: 3rem;
+}
+
+
+
+.APlogo{
+    height: 282px;
+    margin-left: 511px;
+    animation:alternate-reverse;
+}
+
+.AP{
+    margin-left: 559px;
+    margin-top: 33px;
+    height: 36px;
+    border-radius: 46px;
+    width: 176px;
+    border: none;
+    background-color: #1967d2;
+    color: white;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.windows{
+    margin-left: 543px;
+    margin-top: 22px;
+    color: gray;
+}

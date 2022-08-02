@@ -1,0 +1,22 @@
+@media (max-width: 767px) {
+ 
+    .navbar ul {
+        flex-direction: column;
+        margin-left: 151px;
+        text-align: center;
+        margin-left: 71px;
+    }
+
+    /* .navbar {
+        margin-left: -76px;
+    } */
+
+    .navbar ul li a {
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        /* margin-left: 152px; */
+        display: block;
+    }
+
+ }
