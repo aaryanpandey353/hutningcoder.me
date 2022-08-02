@@ -157,7 +157,7 @@
                         <p class="text-gray-700 text-base">Complete Web Development Course by CodeWithAaryan in
                             Hindi - Learn Web development from starting for free! </p>
                     </div>
-                    <div class="px-6 pt-4 pb-2"><a href="/courses/Web development Video/index.html"><span
+                    <div class="px-6 pt-4 pb-2"><a href="hutningcoder.me/courses/Web development Video/index.php"><span
                             class="inline-block bg-purple-800 rounded-full px-3 py-2 text-sm font-semibold text-white mr-2 mb-2 hover:bg-purple-600 cursor-pointer">
                             Start Watching</span></a></div>
                 </div>
